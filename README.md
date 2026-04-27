@@ -40,3 +40,16 @@ In Development — Sprint 1
 This project was inspired by a personal goal of working in airline operations at 
 Delta Air Lines. FlightOps Helper is my way of connecting coursework to my career 
 and getting a hands-on understanding of how flights are managed in the real world.
+
+
+For tonight ( 04.27.2026)
+
+## Description
+Centralizes flight operations for airport staff. Inspired by Delta Air Lines, solves manual chaos with **auto gate conflict detection** and live updates.
+
+##  Features (All LIVE)
+- Add flights: number, destination, departure, gate, status
+- **Auto-detect gate conflicts** (30min overlap → RED ALERT)
+- Update status instantly (Scheduled/Delayed/Boarding/Departed)
+- Live dashboard refreshes automatically
+- Persistent SQLite database
